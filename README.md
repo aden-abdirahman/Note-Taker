@@ -14,7 +14,7 @@
 
 Create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and modify notes using a database.
 
-Screenshots of running program: ![](./assets/images/screenshot1.png) ![](./assets/images/screenshot2.png)
+Screenshots of running program: ![](public/assets/images/screenshot1.png) ![](public/assets/images/screenshot2.png)
 
 ### Installation:
 
